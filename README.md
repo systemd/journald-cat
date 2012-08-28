@@ -11,5 +11,5 @@ Example
 Authors
 =======
 
-David Strauss <david@davidstrauss.net>
-Jerry Blakley <jerryblakley@gmail.com>
+ * David Strauss <david@davidstrauss.net>
+ * Jerry Blakley <jerryblakley@gmail.com>
